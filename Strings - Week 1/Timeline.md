@@ -14,7 +14,7 @@ This question is asked by **Google**. Given a string, reverse all of its charact
     “civic”, return “civic”
 
 
-[Solution](https://github.com/AlbusDracoSam/DailyByte/blob/main/Strings%20-%20Week%201/Reverse%20String.java)
+[Solution](https://github.com/AlbusDracoSam/DailyByte/blob/main/Strings%20-%20Week%201/1.%20Reverse%20String.java)
 
 ***
 
@@ -34,7 +34,7 @@ Note: a palindrome is a sequence of characters that reads the same forwards and 
     "A man, a plan, a canal: Panama.", return true
     
     
-[Solution](https://github.com/AlbusDracoSam/DailyByte/blob/main/Strings%20-%20Week%201/Valid%20Palindrome.java)
+[Solution](https://github.com/AlbusDracoSam/DailyByte/blob/main/Strings%20-%20Week%201/2.%20Valid%20Palindrome.java)
     
 ***
 
@@ -52,4 +52,4 @@ The string will only contain L, R, U, and D characters, representing left, right
     
     "RUULLDRD", return true
 
-[Solution](https://github.com/AlbusDracoSam/DailyByte/blob/main/Strings%20-%20Week%201/Robot%20Return%20to%20Origin.java)
+[Solution](https://github.com/AlbusDracoSam/DailyByte/blob/main/Strings%20-%20Week%201/3.%20Robot%20Return%20to%20Origin.java)
