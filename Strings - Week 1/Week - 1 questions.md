@@ -94,4 +94,23 @@ Note: neither binary string will contain leading 0s unless the string itself is 
 
 ***
 
+### 6. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) - Easy 🟢
+
+This question is asked by **Microsoft**. Given an array of strings, return the longest common prefix that is shared amongst all strings. 
+
+Note: you may assume all strings only contain lowercase alphabetical characters. 
+
+    Ex: Given the following arrays...
+    
+    ["colorado", "color", "cold"], return "col"
+    
+    ["a", "b", "c"], return ""
+    
+    ["spot", "spotty", "spotted"], return "spot"
+    
+[Solution](https://github.com/AlbusDracoSam/DailyByte/blob/main/Strings%20-%20Week%201/6.%20Longest%20Common%20Prefix.java)
+
+***
+
+
 
