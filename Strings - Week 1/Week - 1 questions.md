@@ -76,3 +76,22 @@ A string correctly uses capitalization if all letters are capitalized, no letter
 
 ***
 
+### 5. [Add Binary](https://leetcode.com/problems/add-binary/) - Easy 🟢
+
+This question is asked by **Apple**. Given two binary strings (strings containing only 1s and 0s) return their sum (also as a binary string). 
+
+Note: neither binary string will contain leading 0s unless the string itself is 0 
+
+    Ex: Given the following binary strings...
+
+    "100" + "1", return "101"
+
+    "11" + "1", return "100"
+
+    "1" + "0", return  "1"
+    
+[Solution](https://github.com/AlbusDracoSam/DailyByte/blob/main/Strings%20-%20Week%201/5.%20Add%20Binary.java)
+
+***
+
+
