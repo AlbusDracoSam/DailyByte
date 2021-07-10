@@ -112,5 +112,23 @@ Note: you may assume all strings only contain lowercase alphabetical characters.
 
 ***
 
+### 7. [Valid Palindrome ii](https://leetcode.com/problems/valid-palindrome-ii/) - Easy 🟢
+
+This question is asked by **Facebook**. Given a string and the ability to delete at most one character, return whether or not it can form a palindrome. 
+
+Note: a palindrome is a sequence of characters that reads the same forwards and backwards. 
+
+    Ex: Given the following strings...
+    
+    "abcba", return true
+    
+    "foobof", return true (remove the first 'o', the second 'o', or 'b')
+    
+    "abccab", return false
+    
+[Solution](https://github.com/AlbusDracoSam/DailyByte/blob/main/Strings%20-%20Week%201/7.%20Valid%20Palindrome%20ii.java)
+
+***
+
 
 
