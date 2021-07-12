@@ -16,7 +16,7 @@ All the solutions are availabe in my repo. Only for learning purpose not with an
 
 1. [Strings](https://github.com/AlbusDracoSam/DailyByte/tree/main/Strings%20-%20Week%201)
 
-2. Hash Maps
+2. [Hash Maps](https://github.com/AlbusDracoSam/DailyByte/tree/main/Week%20-%202%20Hash%20Maps)
 
 3. Linked Lists
 
