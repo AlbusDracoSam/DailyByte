@@ -20,3 +20,22 @@ You can return the answer in any order.
 
 ***
 
+### 2. [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) - Easy 🟢
+
+This question is asked by **Amazon**. 
+
+Given a string representing your stones and another string representing a list of jewels, return the number of stones that you have that are also jewels. 
+
+    Ex: Given the following jewels and stones...
+    
+    jewels = "abc", stones = "ac", return 2
+    
+    jewels = "Af", stones = "AaaddfFf", return 3
+    
+    jewels = "AYOPD", stones = "ayopd", return 0
+    
+[Solution](https://github.com/AlbusDracoSam/DailyByte/blob/main/Week%20-%202%20Hash%20Maps/2.%20Jewels%20and%20Stones.java)
+
+***
+
+
