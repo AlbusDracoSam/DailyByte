@@ -1,4 +1,4 @@
-# Week - 1
+# [Week - 1️⃣](https://github.com/AlbusDracoSam/DailyByte/tree/main/Strings%20-%20Week%201)
 
 ### 1. [Reverse String](https://leetcode.com/problems/reverse-string/) - Easy 🟢
 
