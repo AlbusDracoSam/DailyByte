@@ -1,4 +1,4 @@
-# Week - 2
+# [Week - 2️⃣](https://github.com/AlbusDracoSam/DailyByte/tree/main/Week%20-%202%20Hash%20Maps)
 
 ### 1. [Two Sum](https://leetcode.com/problems/two-sum/) - Easy 🟢
 
@@ -97,6 +97,28 @@ Note: You may assume that at most one additional character can be added to t.
     s = "coding", t "ingcod", return ''
     
 [Solution](https://github.com/AlbusDracoSam/DailyByte/blob/main/Week%20-%202%20Hash%20Maps/5.%20Find%20the%20Difference.java)
+
+***
+
+### 6. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) - Easy 🟢
+
+This question is asked by **Google**.
+
+Given two integer arrays, return their intersection. 
+
+Note: the intersection is the set of elements that are common to both arrays. 
+
+    Ex: Given the following arrays...
+    
+    nums1 = [2, 4, 4, 2], nums2 = [2, 4], return [2, 4]
+    
+    nums1 = [1, 2, 3, 3], nums2 = [3, 3], return [3]
+    
+    nums1 = [2, 4, 6, 8], nums2 = [1, 3, 5, 7], return []
+    
+[Solution](https://github.com/AlbusDracoSam/DailyByte/blob/main/Week%20-%202%20Hash%20Maps/6.%20Intersection%20of%20Two%20Arrays.java)
+    
+***
 
 
 
