@@ -120,6 +120,27 @@ Note: the intersection is the set of elements that are common to both arrays.
     
 ***
 
+### 8. [Uncommon Words](https://leetcode.com/problems/uncommon-words-from-two-sentences/) - Easy 🟢
+
+This question is asked by **Amazon**.
+
+Given two strings representing sentences, return the words that are not common to both strings (i.e. the words that only appear in one of the sentences).
+
+You may assume that each sentence is a sequence of words (without punctuation) correctly separated using space characters. 
+
+    Ex: given the following strings...
+    
+    sentence1 = "the quick", sentence2 = "brown fox", return ["the", "quick", "brown", "fox"]
+    
+    sentence1 = "the tortoise beat the haire", sentence2 = "the tortoise lost to the haire", return ["beat", "to", "lost"]
+    
+    sentence1 = "copper coffee pot", sentence2 = "hot coffee pot", return ["copper", "hot"]
+    
+[Solution](https://github.com/AlbusDracoSam/DailyByte/blob/main/Week%20-%202%20Hash%20Maps/7.%20Uncommon%20Words.java)
+
+***
+
+
 
 
 
