@@ -1,4 +1,4 @@
-# [Week - 3️⃣]()
+# [Week - 3️⃣](https://github.com/AlbusDracoSam/DailyByte/tree/main/Week%20-%203%20Linked%20Lists)
 
 ### 1. [Merge Linked Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - Easy 🟢
 
@@ -14,5 +14,5 @@ Given two sorted linked lists, merge them together in ascending order and return
     
     list1 = 4->4->7, list2 = 1->5->6->null, return 1->4->4->5->6->7->null
 
-[Solution]()
+[Solution](https://github.com/AlbusDracoSam/DailyByte/blob/main/Week%20-%203%20Linked%20Lists/1.%20Merge%20Linked%20Lists.java)
 ***
