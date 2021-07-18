@@ -120,7 +120,7 @@ Note: the intersection is the set of elements that are common to both arrays.
     
 ***
 
-### 8. [Uncommon Words](https://leetcode.com/problems/uncommon-words-from-two-sentences/) - Easy 🟢
+### 7. [Uncommon Words](https://leetcode.com/problems/uncommon-words-from-two-sentences/) - Easy 🟢
 
 This question is asked by **Amazon**.
 
