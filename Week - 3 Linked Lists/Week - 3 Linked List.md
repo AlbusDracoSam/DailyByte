@@ -35,3 +35,22 @@ Given a linked list and a value n, remove the nth to last node and return the re
 [Solution](https://github.com/AlbusDracoSam/DailyByte/blob/main/Week%20-%203%20Linked%20Lists/2.%20Remove%20Nth%20Node%20from%20End.java)
 
 ***
+
+### 3. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) - Easy 🟢
+
+This question is asked by **Google**.
+
+Given a linked list and a value, remove all nodes containing the provided value, and return the resulting list. 
+
+    Ex: Given the following linked lists and values...
+    
+    1->2->3->null, value = 3, return 1->2->null
+    
+    8->1->1->4->12->null, value = 1, return 8->4->12->null
+    
+    7->12->2->9->null, value = 7, return 12->2->9->null
+    
+[Solution](https://github.com/AlbusDracoSam/DailyByte/blob/main/Week%20-%203%20Linked%20Lists/3.%20Remove%20Linked%20List%20Elements.java)
+
+***
+
