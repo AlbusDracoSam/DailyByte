@@ -54,3 +54,66 @@ Given a linked list and a value, remove all nodes containing the provided value,
 
 ***
 
+### 4. [Remove middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) - Easy 🟢
+
+This question is asked by **Amazon**. 
+
+Given a non-empty linked list, return the middle node of the list. 
+
+If the linked list contains an even number of elements, return the node closer to the end. 
+
+    Ex: Given the following linked lists... 
+    
+    1->2->3->null, return 2
+    
+    1->2->3->4->null, return 3
+    
+    1->null, return 1
+    
+[Solution](https://github.com/AlbusDracoSam/DailyByte/blob/main/Week%20-%203%20Linked%20Lists/4.%20Remove%20Middle%20of%20the%20Linked%20List.java)
+
+***
+
+### 5. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) - Easy 🟢
+
+This question is asked by **Microsoft**.
+
+Given a linked list, containing unique numbers, return whether or not it has a cycle.
+
+Note: a cycle is a circular arrangement (i.e. one node points back to a previous node) 
+
+    Ex: Given the following linked lists...
+    
+    1->2->3->1 -> true (3 points back to 1)
+    
+    1->2->3 -> false
+    
+    1->1 true (1 points to itself)
+    
+[Solution](https://github.com/AlbusDracoSam/DailyByte/blob/main/Week%20-%203%20Linked%20Lists/5.%20Linked%20List%20Cycle.java)
+
+***
+
+### 6. [Linked List Cycle ii](https://leetcode.com/problems/linked-list-cycle-ii/) - Medium 🟠
+
+This question is asked by **Apple**.
+
+Given a potentially cyclical linked list where each value is unique, return the node at which the cycle starts. 
+
+If the list does not contain a cycle, return null. 
+
+    Ex: Given the following linked lists...
+    
+    1->2->3, return null
+    
+    1->2->3->4->5->2 (5 points back to 2), return a reference to the node containing 2
+    
+    1->9->3->7->7 (7 points to itself), return a reference to the node containing 7
+    
+[Solution](https://github.com/AlbusDracoSam/DailyByte/blob/main/Week%20-%203%20Linked%20Lists/6.%20Linked%20List%20Cycle%20ii.java)
+
+***
+
+
+
+
