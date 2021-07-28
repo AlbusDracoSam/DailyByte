@@ -37,7 +37,7 @@ Given two strings s and t, which represents a sequence of keystrokes, where # de
 
 ***
 
-3. [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) - Easy 🟢
+### 3. [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) - Easy 🟢
 
 This question is asked by **Facebook.**
 
