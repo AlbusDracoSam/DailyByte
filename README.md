@@ -24,7 +24,7 @@ All the solutions are availabe in my repo. Only for learning purpose not with an
 
 ## Weeks 4-7
 
-4. Stacks & Queues
+4. [Stacks & Queues](https://github.com/AlbusDracoSam/DailyByte/tree/main/Week%20-%204%20Stacks%20%26%20Queues)
 
 5. Trees
 
