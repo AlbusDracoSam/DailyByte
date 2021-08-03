@@ -1,4 +1,4 @@
-# [Week - 5️⃣]()
+# [Week - 5️⃣](https://github.com/AlbusDracoSam/DailyByte/tree/main/Week%20-%205%20Trees)
 
 ### 1. [Search in a BST](https://leetcode.com/problems/search-in-a-binary-search-tree/) - Easy 🟢
 
